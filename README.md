@@ -41,7 +41,7 @@ Esse conjunto me permite entender a aplicação como um todo, desde a interface 
 ### 🖥️ **Back-end & Banco de Dados**
 <p>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
