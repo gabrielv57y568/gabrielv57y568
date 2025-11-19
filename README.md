@@ -47,7 +47,7 @@ Esse conjunto me permite entender a aplicação como um todo, desde a interface 
 
 ### 🗄️ **Ferramentas de Banco**
 <p>
-  <img height="32" src="https://img.icons8.com/?size=512&id=39770&format=png"/>
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
 ---
