@@ -45,11 +45,6 @@ Esse conjunto me permite entender a aplicação como um todo, desde a interface 
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </p>
 
-### 🗄️ **Ferramentas de Banco**
-<p>
-  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-</p>
-
 ---
 
 ## 🎯 Área de Atuação
